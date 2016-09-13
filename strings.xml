@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--====*====*====*====*====*====*====*====*====*====*====*====*====*====*
+ *  Copyright (c) 2016 Cyanogen Inc.
+ *     All Rights Reserved.
+ *     Cyanogen Confidential and Proprietary.
+ * =====================================================================-->
+<resources>
+    <string name="app_name">MOD Guide</string>
+
+    <!-- ========== Home Page ========== -->
+    <string name="mods">mods</string>
+    <string name="themes">themes</string>
+
+    <string name="themestore_error">ThemeStore not installed</string>
+
+    <string name="available_mods">Available mods</string>
+    <string name="mod_guide_legal_info">MOD Guide legal info</string>
+
+    <string name="banner_transition" translatable="false">item_banner</string>
+
+    <!-- ========== Details Page ========== -->
+    <string name="components_format" translatable="false">+%1$d</string>
+
+    <string name="install">INSTALL</string>
+    <string name="uninstall">UNINSTALL</string>
+    <string name="disable">DISABLE</string>
+    <string name="read_more">Read More</string>
+
+    <string name="recommend">Recommend this MOD</string>
+    <string name="recommend_subtext">Recommendations are linked to your account and are public.</string>
+
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="likes">Likes</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="total">Total</string>
+    <string name="rating_format" translatable="false">&lt;b>%1$d%%&lt;/b> - %2$d\u0020</string>
+    <string name="like_format" translatable="false">&lt;b>%1$d&lt;/b> -\u0020</string>
+
+    <string name="reviews_title">Most Helpful Recommendations</string>
+    <string name="all_reviews">All Reviews</string>
+
+    <string name="mod_info">MOD Information</string>
+    <string name="version">Version:\u0020</string>
+    <string name="size">Size:\u0020</string>
+    <string name="category">Category:\u0020</string>
+    <string name="date">Date Added:\u0020</string>
+
+    <string name="share">Share this MOD</string>
+    <string name="developer">Developer</string>
+    <string name="website">Visit Website</string>
+    <string name="contact">Contact</string>
+    <string name="legal_info">Legal Info</string>
+
+    <!-- ========== Carousel Items ========== -->
+    <string name="overview_carousel_item_title_0">Welcome to the MOD Guide</string>
+    <string name="overview_carousel_item_body_0">Mods make your phone easier, faster, and smarter. In this guide, you
+        can discover new mods, learn what they do, and enable or disable them.</string>
+    <string name="overview_carousel_item_title_1">Mods make everything easier</string>
+    <string name="overview_carousel_item_body_1">Mods help you complete tasks more efficiently. That means fewer
+        taps, less jumping between apps, and more time saved to do the things you want.</string>
+    <string name="overview_carousel_item_title_2">Make your phone a lean, mean mod machine</string>
+    <string name="overview_carousel_item_body_2">Mods turn your favorite features into streamlined experiences. That
+        means less data used and less to store\u2014so you have room left for the photos, music, and apps you care
+        about.</string>
+    <string name="overview_carousel_item_title_3">It\'s like a dance party for your apps</string>
+    <string name="overview_carousel_item_body_3">Mods let your apps play together, creating effortless new
+        experiences that surprise you and make you smile. In the world of mods, things just work.</string>
+
+    <!-- ========== Where To Find It========== -->
+    <string name="where_to_find_it_title">Where to find it</string>
+
+    <!-- ========== String resources used by Mods ========== -->
+    <!-- Uber -->
+    <string name="com_cyanogen_uber_display_name">Uber</string>
+    <string name="com_cyanogen_uber_developer_name">Uber Technologies, Inc.</string>
+    <string name="com_cyanogen_uber_description_title">Get there, from anywhere</string>
+    <string name="com_cyanogen_uber_description_text">Quickly request and track rides with the Uber mod. Start a ride
+        by tapping a highlighted address in compatible apps like Browser, Email, and Messaging. You can even track your driver\'s status right on your lock screen. The Uber mod gives you fast access to the Uber app, so download it sign in to get started.</string>
+    <string name="com_cyanogen_uber_surface_lockscreen_title">Lock Screen</string>
+    <string name="com_cyanogen_uber_surface_lockscreen_description">Download the Uber app from the Play Store, then sign into the service. During rides made by the Uber app, your lock screen will display a map and driver information.</string>
+    <string name="com_cyanogen_uber_surface_messaging_title">Messaging</string>
+    <string name="com_cyanogen_uber_surface_messaging_description">Download the Uber app from the Play Store, then sign into the service. Addresses sent and recevied in Messaging will automatically include a map and a ride button. Tapping the button will open the Uber app with the address entered as the destination.</string>
+    <string name="com_cyanogen_uber_surface_addresses_title">Addresses</string>
+    <string name="com_cyanogen_uber_surface_addresses_description">Download the Uber app from the Play Store, then sign into the service. Address links in browser and elsewhere will include a quick estimate when choosing what app to open the address in. Tapping this estimate will open the Uber app with the address entered as the destination.</string>
+
+    <!-- Cortana -->
+    <string name="com_microsoft_cortana_plugin_display_name">Cortana</string>
+    <string name="com_microsoft_cortana_plugin_developer_name">Microsoft Corporation</string>
+    <string name="com_microsoft_cortana_plugin_description_title">Meet Cortana, your new personal assistant</string>
+    <string name="com_microsoft_cortana_plugin_description_text">The Cortana mod is deeply integrated into Cyanogen
+        OS, allowing you to do everything from setting reminders to scheduling meetings—but more
+        importantly&#8230; is your hair on point? You can tell Cortana to “take a selfie”, giving you voice
+        controlled, hands free, automatic countdown for capturing your picture. You can even use your voice to search right from the lock screen. Currently, the Cortana mod is only available in the United States.</string>
+    <string name="com_microsoft_cortana_plugin_surface_lockscreen_title">Lock Screen</string>
+    <string name="com_microsoft_cortana_plugin_surface_lockscreen_description">To enable the Cortana mod for lock screen simply navigate to the phone’s settings menu, scroll down and select Lock Screen, then select Lock Screen Mods, then tap Cortana to set her as your lock screen mod of choice. Once enabled, simply unlock your phone and swipe left to access the Cortana mod for lock screen.</string>
+    <string name="com_microsoft_cortana_plugin_surface_camera_title">Camera</string>
+    <string name="com_microsoft_cortana_plugin_surface_camera_description">Access Cortana via the lock screen mod or app, then say “Hey Cortana” or press the mic button. Once she is listening simply ask her to “take a selfie” and she will open the camera and snap a photo automatically.</string>
+
+    <!-- Truecaller -->
+    <string name="com_truecaller_cyanogen_display_name">Truecaller</string>
+    <string name="com_truecaller_cyanogen_developer_name">True Software Scandinavia AB</string>
+    <string name="com_truecaller_cyanogen_description_title">Prevent unwanted spam calls and texts.</string>
+    <string name="com_truecaller_cyanogen_description_text">A global database of over two billion numbers allows the Truecaller mod to identify incoming spam calls and texts in the phone and messaging apps so you can block them for good.</string>
+    <string name="com_truecaller_cyanogen_surface_phone_title">Phone</string>
+    <string name="com_truecaller_cyanogen_surface_phone_description">Open the Phone and navigate to the settings menu. Toggle on Truecaller, and follow the prompts to enable the mod. The Truecaller mod is now enabled and will be used anytime you receive an incoming phone call.</string>
+    <string name="com_truecaller_cyanogen_surface_messaging_title">Messaging</string>
+    <string name="com_truecaller_cyanogen_surface_messaging_description">Open the Phone and navigate to the phone’s settings menu. Toggle on Truecaller, and follow the prompts to enable the mod. The Truecaller mod is now enabled and will be used anytime you receive an incoming text message.</string>
+
+    <!-- OneNote -->
+    <string name="com_microsoft_office_onenote_plugin_display_name">OneNote</string>
+    <string name="com_microsoft_office_onenote_plugin_developer_name">Microsoft Corporation</string>
+    <string name="com_microsoft_office_onenote_plugin_description_title">Take a note anytime, from anywhere in the OS</string>
+    <string name="com_microsoft_office_onenote_plugin_description_text">Take notes simply and intuitively anytime—from anywhere in the OS. The OneNote mod creates different places throughout the OS that OneNote functionality can be used, from the dialer to the browser and beyond. There\'s even a dedicated Quick Settings Tile so you can jot down a quick note anytime.</string>
+    <string name="com_microsoft_office_onenote_plugin_surface_quick_settings_title">Quick Settings</string>
+    <string name="com_microsoft_office_onenote_plugin_surface_quick_settings_description">Download and install the OneNote app from the Play Store. From the top of the home screen, pull down the quick settings dropdown menu. Select Take note. You will be prompted with a message asking you what you’d like to use to complete this action. The window will read Take note with OneNote. Select Always. Type your note, including a title, into the floating window. Tap on the checkbox to save the note to OneNote. </string>
+    <string name="com_microsoft_office_onenote_plugin_surface_phone_title">Phone</string>
+    <string name="com_microsoft_office_onenote_plugin_surface_phone_description">Download and install the OneNote app from the Play Store. Upon receiving an incoming phone call, answer it. On the ongoing call screen, tap the + button. You will be prompted with a message asking you what you’d like to use to complete this action. The window will read Take note with OneNote. Select Always. Type your note into the floating window associated with the ongoing phone call. Tap on the checkbox to save the note to OneNote.</string>
+    <string name="com_microsoft_office_onenote_plugin_surface_email_title">Email</string>
+    <string name="com_microsoft_office_onenote_plugin_surface_email_description">Download and install the OneNote app from the Play Store. Open Email and swipe right on an email. Select the Actions button to display email options, and tap on Take note with OneNote. You will be prompted with a message asking you what you’d like to use to complete this action. The window will read Take note with OneNote. Select Always. Type your note into the floating window associated with the selected email. Tap on the checkbox to save the note to OneNote.</string>
+
+    <!-- Hyperlapse -->
+    <string name="com_cyngn_hyperlapse_plugin_display_name">Microsoft Hyperlapse</string>
+    <string name="com_cyngn_hyperlapse_plugin_developer_name">Microsoft</string>
+    <string name="com_cyngn_hyperlapse_plugin_description_title">Life moves at its own pace, your videos don’t have to</string>
+    <string name="com_cyngn_hyperlapse_plugin_description_text">Microsoft Hyperlapse creates smooth and stabilized time lapses from first-person videos. Simply open the Camera app, pull up the mode switcher and select Hyperlapse. Now you can shoot, edit, and share Hyperlapse videos without ever needing to download a special app.</string>
+    <string name="com_cyngn_hyperlapse_plugin_surface_camera_title">Camera</string>
+    <string name="com_cyngn_hyperlapse_plugin_surface_camera_description">Open Camera and select mode. Tap on Hyperlapse.</string>
+    <string name="com_cyngn_hyperlapse_plugin_surface_gallery_title">Gallery</string>
+    <string name="com_cyngn_hyperlapse_plugin_surface_gallery_description">Open Gallery and tap on an existing video. Tap the menu button and select Create Hyperlapse. Trim the video as desired by moving the two markers. Tap the checkbox to create the Hyperlapse. Review the Hyperlapse, and tap the checkbox to save it.</string>
+
+    <!-- Skype -->
+    <string name="com_skype_android_spice_display_name">Skype</string>
+    <string name="com_skype_android_spice_developer_name">Microsoft Corporation</string>
+    <string name="com_skype_android_spice_description_title">The Skype features you love, right in the Phone app</string>
+    <string name="com_skype_android_spice_description_text">The Skype mod is integrated directly into the phone dialer, so searching for Skype contacts and viewing your Skype call history has never been easier. You can even upgrade to a Skype video call directly from an ongoing phone call.</string>
+    <string name="com_skype_android_spice_surface_phone_title">Phone</string>
+    <string name="com_skype_android_spice_surface_phone_description">To access the Skype mod for phone simply navigate to the phone, select the phone keypad and then tap the drop-down menu on the left hand side above the keypad. Select Skype Once selected, simply search for the contact you want to call.</string>
+
+    <!-- Twitter -->
+    <string name="com_cyngn_lockscreens_twitter_display_name">Twitter</string>
+    <string name="com_cyngn_lockscreens_twitter_developer_name">Twitter, Inc.</string>
+    <string name="com_cyngn_lockscreens_twitter_description_title">View trending tweets right on your lock screen</string>
+    <string name="com_cyngn_lockscreens_twitter_description_text">Simply wake your phone up to view trending and relevant tweets from Twitter right on the lock screen.</string>
+    <string name="com_cyngn_lockscreens_twitter_surface_lockscreen_title">Lock Screen</string>
+    <string name="com_cyngn_lockscreens_twitter_surface_lockscreen_description">To enable the Twitter mod for lock screen simply navigate to the phone’s settings menu, scroll down and select Lock Screen, then select Lock Screen Mods, then tap Happening on Twitter to set it as your lock screen mod of choice. Once enabled, simply unlock your phone and swipe left to view trending tweets.</string>
+
+    <!-- where to find it actions -->
+    <string name="where_to_find_it_action_jump_to_cortana">JUMP TO CORTANA</string>
+    <string name="where_to_find_it_action_jump_to_camera">JUMP TO CAMERA</string>
+    <string name="where_to_find_it_action_jump_to_email">JUMP TO EMAIL</string>
+    <string name="where_to_find_it_action_jump_to_gallery">JUMP TO GALLERY</string>
+    <string name="where_to_find_it_action_jump_to_phone">JUMP TO PHONE</string>
+    <string name="where_to_find_it_action_jump_to_settings">JUMP TO SETTINGS</string>
+
+    <!-- ========== Nudges ========== -->
+    <string name="nudge_title">Explore the MOD Guide</string>
+    <string name="nudge_subhead">Discover new mods and enable them</string>
+    <string name="nudge_message">Mods make your phone easier, faster, and smarter. Discover new mods, learn
+        about their features, and enable them.</string>
+    <string name="nudge_accept_action">Open App</string>
+    <string name="nudge_reject_action">No Thanks</string>
+
+    <!-- ========== Mod Actions ========== -->
+    <string name="mod_actions_enable">Enable</string>
+    <string name="mod_actions_disable">Disable</string>
+    <string name="mod_actions_disabling">Disabling \u2026</string>
+    <string name="mod_actions_settings">Settings</string>
+    <string name="mod_actions_get_app">Get App</string>
+
+</resources>
