@@ -76,7 +76,9 @@
     <string name="com_cyanogen_uber_developer_name">Uber Technologies, Inc.</string>
     <string name="com_cyanogen_uber_description_title">Get there, from anywhere</string>
     <string name="com_cyanogen_uber_description_text">Quickly request and track rides with the Uber mod. Start a ride
-        by tapping a highlighted address in compatible apps like Browser, Email, and Messaging. You can even track your driver\'s status right on your lock screen. The Uber mod gives you fast access to the Uber app, so download it sign in to get started.</string>
+        by tapping a highlighted address in compatible apps like Browser, Email, and Messaging. You can even track
+        your driver\'s status right on your lock screen. The Uber mod gives you fast access to the Uber app, so
+        download it and sign in to get started.</string>
     <string name="com_cyanogen_uber_surface_lockscreen_title">Lock Screen</string>
     <string name="com_cyanogen_uber_surface_lockscreen_description">Download the Uber app from the Play Store, then sign into the service. During rides made by the Uber app, your lock screen will display a map and driver information.</string>
     <string name="com_cyanogen_uber_surface_messaging_title">Messaging</string>
@@ -90,8 +92,9 @@
     <string name="com_microsoft_cortana_plugin_description_title">Meet Cortana, your new personal assistant</string>
     <string name="com_microsoft_cortana_plugin_description_text">The Cortana mod is deeply integrated into Cyanogen
         OS, allowing you to do everything from setting reminders to scheduling meetings—but more
-        importantly&#8230; is your hair on point? You can tell Cortana to “take a selfie”, giving you voice
-        controlled, hands free, automatic countdown for capturing your picture. You can even use your voice to search right from the lock screen. Currently, the Cortana mod is only available in the United States.</string>
+        importantly&#8230; is your hair on point? You can tell Cortana to “take a selfie,” giving you a voice
+        controlled, hands free, automatic countdown for capturing your picture. You can even use your voice to search
+        right from the lock screen. Currently, the Cortana mod is only available in the United States and India.</string>
     <string name="com_microsoft_cortana_plugin_surface_lockscreen_title">Lock Screen</string>
     <string name="com_microsoft_cortana_plugin_surface_lockscreen_description">To enable the Cortana mod for lock screen simply navigate to the phone’s settings menu, scroll down and select Lock Screen, then select Lock Screen Mods, then tap Cortana to set her as your lock screen mod of choice. Once enabled, simply unlock your phone and swipe left to access the Cortana mod for lock screen.</string>
     <string name="com_microsoft_cortana_plugin_surface_camera_title">Camera</string>
@@ -111,7 +114,10 @@
     <string name="com_microsoft_office_onenote_plugin_display_name">OneNote</string>
     <string name="com_microsoft_office_onenote_plugin_developer_name">Microsoft Corporation</string>
     <string name="com_microsoft_office_onenote_plugin_description_title">Take a note anytime, from anywhere in the OS</string>
-    <string name="com_microsoft_office_onenote_plugin_description_text">Take notes simply and intuitively anytime—from anywhere in the OS. The OneNote mod creates different places throughout the OS that OneNote functionality can be used, from the dialer to the browser and beyond. There\'s even a dedicated Quick Settings Tile so you can jot down a quick note anytime.</string>
+    <string name="com_microsoft_office_onenote_plugin_description_text">Take notes simply and intuitively
+        anytime—from anywhere in the OS. The OneNote mod creates different places throughout the OS that OneNote
+        functionality can be used. There\'s even a dedicated Quick Settings Tile so you can jot down a quick note
+        anytime.</string>
     <string name="com_microsoft_office_onenote_plugin_surface_quick_settings_title">Quick Settings</string>
     <string name="com_microsoft_office_onenote_plugin_surface_quick_settings_description">Download and install the OneNote app from the Play Store. From the top of the home screen, pull down the quick settings dropdown menu. Select Take note. You will be prompted with a message asking you what you’d like to use to complete this action. The window will read Take note with OneNote. Select Always. Type your note, including a title, into the floating window. Tap on the checkbox to save the note to OneNote. </string>
     <string name="com_microsoft_office_onenote_plugin_surface_phone_title">Phone</string>
@@ -133,9 +139,12 @@
     <string name="com_skype_android_spice_display_name">Skype</string>
     <string name="com_skype_android_spice_developer_name">Microsoft Corporation</string>
     <string name="com_skype_android_spice_description_title">The Skype features you love, right in the Phone app</string>
-    <string name="com_skype_android_spice_description_text">The Skype mod is integrated directly into the phone dialer, so searching for Skype contacts and viewing your Skype call history has never been easier. You can even upgrade to a Skype video call directly from an ongoing phone call.</string>
+    <string name="com_skype_android_spice_description_text">The Skype mod is integrated directly into the dialer, so
+        searching for Skype contacts and viewing your Skype call history has never been easier. You can even upgrade to a Skype video call directly from an ongoing phone call.</string>
     <string name="com_skype_android_spice_surface_phone_title">Phone</string>
-    <string name="com_skype_android_spice_surface_phone_description">To access the Skype mod for phone simply navigate to the phone, select the phone keypad and then tap the drop-down menu on the left hand side above the keypad. Select Skype Once selected, simply search for the contact you want to call.</string>
+    <string name="com_skype_android_spice_surface_phone_description">To access the Skype mod for phone simply
+        navigate to the phone, select the phone keypad and then tap the drop-down menu on the left hand side above
+        the keypad. Select Skype. Once selected, simply search for the contact you want to call.</string>
 
     <!-- Twitter -->
     <string name="com_cyngn_lockscreens_twitter_display_name">Twitter</string>
@@ -167,5 +176,6 @@
     <string name="mod_actions_disabling">Disabling \u2026</string>
     <string name="mod_actions_settings">Settings</string>
     <string name="mod_actions_get_app">Get App</string>
+    <string name="mod_actions_open">Open</string>
 
 </resources>
